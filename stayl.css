@@ -65,3 +65,27 @@ flex ,grid , blok,inline ,inlene-block
       em rem =>texrlarda
 em =>fonsayzni otasidan oladi
 rem =>font sizeni rootdan oladi
+
+18. git va github 
+   github=>gilabalni saqlaydi
+   git =>lakanlik saqlaydi
+   git commands
+   1. git init =>gitni ishga tushuradi
+   2. git add => qushadi
+   3. git commit -m => izox berish va versiya
+   4.git remote =>mnzil qushish uchum
+   5. git push => jo'natadi
+
+19. flex-items
+    flex wrap => sig'magan elementni yangi qototdan joylashtiradi
+    flex grow => ustiradi
+    flex shirik =>toraytiradi 
+    flex direktion =>yunalish
+      row
+      row rowersi
+      column 
+      column roverse
+20. box sizin border box o'chamni quti ichida hisoblaydi
+
+21. pseldo class :hover active :focus
+    pseldo element before after
