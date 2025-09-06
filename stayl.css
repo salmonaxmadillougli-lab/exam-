@@ -1,0 +1,67 @@
+
+
+
+
+
+1.Css nima =>cscsding style sheet 
+2,selekter =>id class unversal element 
+3. inheritance => merosxorlik uzida yoq stilni odasidan oladi
+4. specifacitiy =>ustinvorlik
+    universal =>0.0.0
+    element=> 0.0.1
+    class=> 0.10
+    id=> 1.0.0
+    important =>1.0.0.0
+5.displey=> 
+flex ,grid , blok,inline ,inlene-block
+6.position xossalari 
+    ststic=>defolt
+    relativ=>turgan joyiga nisbatan olado
+    absalute=>position bolgan otasiga nisbatan oladi
+    fixed=>berilgan joyda qotadi
+    sticky =>malum berilga pxga yetganda qotadi
+8.overflow nima 
+   visible=>defolt xolati
+   hidden=>berkitib quyadi
+   scroll=>toshsa va toshmasaham scroll quyadi
+   auto=> faqat toshganda gina scroll qudadi
+9.z-indexning vazifasi nima 
+   qatlamni  bpshqarish
+   posioned xolarda ishlaydi
+10. RWD => responsiv web design : moslasuwan web dizayn
+
+11.brekpoints =>sinish nuqtasi
+
+12.animation => elementni bir sitildan boshqa sitilga uzgarilishi
+    animation -delay =>animatsiyani kechiktirish
+    animation -direktion =>animatsiyani yunalishi
+    animation -duration =>davomiylik 
+    animation -iteration- count =>animatsiyani necha qaqit ishladi
+    infinite =>animatsiyani cheksis ishlashi
+    animation-timing -function =>
+    ease;
+    ease-in
+    ease-in :out
+    ease-out
+13.filters xossalari
+    blur=> xiralashtiradi
+    contrast=>rannga tuyintiradi
+    =>
+    birigtness =>youg lashtiradi
+    grayscal =>oq qora
+    oppositiy =>shaffoflashtiradi
+    sefia =>sariqlashtiradi
+14.backraunt -attachent :fixed;orqafoni qotiradi
+
+15. transition:davomilik qoshadi
+
+16.transforim=>
+    translet=> harakatlantiradi
+    scale => yaqinlashtiradi va uzoqlashtiradi
+    rotate=> aylantiradi
+    skew=> ogdiradi
+17. units =>olcham birliklari
+      px vh vw % => elementlarda
+      em rem =>texrlarda
+em =>fonsayzni otasidan oladi
+rem =>font sizeni rootdan oladi
